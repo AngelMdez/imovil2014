@@ -54,7 +54,7 @@
   	<string name="points">Points: </string>
     <!-- Fin Modulo: Binario -->
 	
-     <!-- Strings logic gate -->
+       <!-- Strings logic gate -->
      
      <string name="button_logic_gate">Check</string>
      <string name="failed_logic_gate">You failed!</string>
@@ -62,6 +62,13 @@
      <string name="try_again_logic_gate">Try again</string>
      <string name="solution_logic_gate">Solution</string>
      <string name="done_logic_gate">You are done</string>
+    <string name="button_logic_gate_solution">Solution</string>
+    <string name="logic_gate_title">¿What is this logic gate?</string>
+    <string name="points_final">Your score is </string>
+    <string name="end_game">End game</string>
+    <string name="title_puntuacion">Score: </string>
+     
+     <!--  Fin Strings logic gate -->
      
      <!--  Fin Strings logic gate -->
      
@@ -97,5 +104,16 @@
   	<string name="convert_to_bin_offset">Convert from decimal to binary offset</string>
   	<string name="convert_from_bo_to_dec">Convert from binary offset to decimal</string>
   	
+  	    <!-- Help activity -->
+    <string name="developed_by">Application developed by Informática Móvil students, 2013-2014 promotion.</string>
+    <!-- End Help activity -->
+    
+    <!--  Strings Network Address -->
+    <string name="ip_add">IP address:</string>
+    <string name="mask">Mask:</string>
+    <string name="text_butt_ans">Check</string>
+    <string name="text_butt_solution">Solution</string>
+    <string name="na_title">Network address exercise</string>
+    <!--  Fin Strings Network Address -->
+    
 </resources>
-
